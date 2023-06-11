@@ -1,4 +1,4 @@
-package mypackage;
+package hust.soict.globalict.aims.store;
 
 public class Store {
 	DigitalVideoDisc itemsInStore[];
